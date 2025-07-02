@@ -1,2 +1,1 @@
-# indosusu
-indosusu
+# [indosusu](https://indosusu.pages.dev)
